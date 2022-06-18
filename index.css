@@ -12,8 +12,7 @@
         display: flex;
     }
     .logo img {
-        background-attachment: fixed;
-        background-size: cover;
+        padding-right: 15%;
         height: 70px;
         margin-left: auto;
         background-color: rgba(255, 155, 155, 0.749);
