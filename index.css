@@ -12,17 +12,17 @@
         display: flex;
     }
     .logo img {
-        padding-right: 15%;
-        height: 70px;
-        margin-left: auto;
-        background-color: rgba(255, 155, 155, 0.749);
+        height: 95px;
+        margin-left: 8%;
+        background-color: rgba(255, 155, 155, 0.5);
         border: rgba(255, 155, 155, 0.749) 5px solid;
     }
     h1 {
         font-family: 'Indie Flower', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
-        background-color: rgba(255, 208, 208, 0.749);
+        background-color: rgba(255, 208, 208, 0.5);
         margin-left: 8%;
-        border-radius: 120px;
+        border-radius: 150px;
+        font-size: 40px;
     }
 }
