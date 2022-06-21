@@ -31,10 +31,7 @@
     div.TITLE {
     text-align: center;
     }
-    001 img   { 
-        border: 2px rgba(255, 155, 155, 0.749) solid;
-        background-color: rgba(255, 208, 208, 0.6);
-    }
+   
     TITLE, p {
                text-align: center;
                text-decoration: none;
@@ -42,6 +39,10 @@
                border: 2px rgba(255, 155, 155, 0.749) solid;
                background-color: rgba(255, 208, 208, 0.6);
                font-size: 48px;
-            }
+   }
+     TITLE img { 
+               border: 2px rgba(255, 155, 155, 0.749) solid;
+               background-color: rgba(255, 208, 208, 0.6);
+        }
 }
 
