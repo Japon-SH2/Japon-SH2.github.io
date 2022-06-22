@@ -22,6 +22,7 @@
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.5);
         margin-left: 8%;
+        
         border-radius: 150px;
         font-size: 40px;
     }
@@ -29,7 +30,8 @@
    
     }
     .COMO {
-        text-align: center;
+        text-align: center center;
+        align-items: center center;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         font-family: 'Staatliches', cursive;
         background-color: rgba(255, 208, 208, 0.6);
