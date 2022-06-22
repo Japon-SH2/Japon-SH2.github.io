@@ -5,6 +5,7 @@
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
+        font-family: 'Staatliches', cursive;
     }
      * {
         font-family: 'Staatliches', cursive;
@@ -21,7 +22,7 @@
         border: rgba(255, 155, 155, 0.749) 5px solid;
     }
     h1 {
-        
+        font-family: 'Staatliches', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.5);
         margin-left: 8%;
@@ -32,6 +33,7 @@
    
     }
     .COMO {
+        font-family: 'Staatliches', cursive;
         text-align: center;
         align-items: center center;
         border: 2px rgba(255, 155, 155, 0.749);
@@ -39,6 +41,7 @@
       
     }
     .id {
+        font-family: 'Staatliches', cursive;
         text-align: center;
         text-decoration: none;
         border: 2px rgba(255, 155, 155, 0.749) solid;
