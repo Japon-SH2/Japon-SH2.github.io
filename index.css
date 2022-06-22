@@ -1,5 +1,6 @@
 @media (max-width:600px) {
     body {
+        font-family: 'Staatliches', cursive;
         background-image: url(rec/flower-cherry-blossom.gif);
         background-attachment: fixed;
         background-repeat: no-repeat;
@@ -18,11 +19,10 @@
         border: rgba(255, 155, 155, 0.749) 5px solid;
     }
     h1 {
-        font-family: 'Staatliches', cursive;
+        
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.5);
         margin-left: 8%;
-        
         border-radius: 150px;
         font-size: 40px;
     }
@@ -32,15 +32,13 @@
     .COMO {
         text-align: center;
         align-items: center center;
-        border: 2px rgba(255, 155, 155, 0.749) solid;
-        font-family: 'Staatliches', cursive;
+        border: 2px rgba(255, 155, 155, 0.749);
         background-color: rgba(255, 208, 208, 0.6);
       
     }
     .id {
         text-align: center;
         text-decoration: none;
-        font-family: 'Staatliches', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
         font-size: 48px;
