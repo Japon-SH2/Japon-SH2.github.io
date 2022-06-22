@@ -11,10 +11,12 @@
         font-family: 'Staatliches';
     }
     .logo {
-          text-align: center;
+          text-align: center center;
         align-items: center;
         flex-direction: row;
         display: flex;
+        background-color: rgba(255, 155, 155, 0.5);
+        border: rgba(255, 155, 155, 0.749) 5px solid;
     }
     .logo img {
         height: 95px;
