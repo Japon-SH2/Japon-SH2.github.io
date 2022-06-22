@@ -30,6 +30,7 @@
     }
     .COMO {
         text-align: center;
+        border: 2px rgba(255, 155, 155, 0.749) solid;
         font-family: 'Staatliches', cursive;
         background-color: rgba(255, 208, 208, 0.6);
       
