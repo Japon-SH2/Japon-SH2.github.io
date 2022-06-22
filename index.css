@@ -26,6 +26,19 @@
         font-size: 40px;
     }
     .id {
+        align-items: center center;
+        border: 2px rgba(255, 155, 155, 0.749) solid;
+        background-color: rgba(255, 208, 208, 0.6);
+    }
+    .COMO {
+        text-align: center center;
+        text-align: center;
+        font-family: 'Indie Flower', cursive;
+        border: 2px rgba(255, 155, 155, 0.749) solid;
+        background-color: rgba(255, 208, 208, 0.6);
+        font-size: 10px;
+    }
+    .id {
         text-align: center;
         text-decoration: none;
         font-family: 'Indie Flower', cursive;
@@ -33,17 +46,4 @@
         background-color: rgba(255, 208, 208, 0.6);
         font-size: 48px;
     }
-}
-
-.id {
-    align-items: center center;
-    border: 2px rgba(255, 155, 155, 0.749) solid;
-    background-color: rgba(255, 208, 208, 0.6);
-}
-
-.COMO {
-font-family: 'Staatliches', cursive;
-    border: 2px rgba(255, 155, 155, 0.749) solid;
-    background-color: rgba(255, 208, 208, 0.6);
-    font-size: 15px;
 }
