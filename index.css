@@ -43,7 +43,7 @@
     }
     .id {
         font-family: 'Staatliches;
-        align-items: center center;
+        
         text-align: center center;
         text-decoration: none;
         border: 2px rgba(255, 155, 155, 0.749) solid;
@@ -52,7 +52,7 @@
     }
 .p {
         font-family: 'Staatliches;
-        align-items: center center;
+        
         text-align: center center;
         text-decoration: none;
         border: 2px rgba(255, 155, 155, 0.749) solid;
