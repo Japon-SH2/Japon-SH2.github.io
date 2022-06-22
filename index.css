@@ -1,12 +1,12 @@
 @media (max-width:600px) {
     body {
-        font-family: 'Staatliches', cursive;
         background-image: url(rec/flower-cherry-blossom.gif);
         background-attachment: fixed;
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
     }
+     *{font-family: 'Staatliches', cursive;}
     .logo {
         align-items: center;
         flex-direction: row;
