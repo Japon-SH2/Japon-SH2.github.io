@@ -6,7 +6,9 @@
         background-position: center center;
         background-size: cover;
     }
-     *{font-family: 'Staatliches', cursive;}
+     * {
+        font-family: 'Staatliches', cursive;
+    }
     .logo {
         align-items: center;
         flex-direction: row;
