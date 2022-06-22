@@ -18,7 +18,7 @@
         border: rgba(255, 155, 155, 0.749) 5px solid;
     }
     h1 {
-        font-family: 'Indie Flower', cursive;
+        font-family: 'Staatliches', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.5);
         margin-left: 8%;
@@ -30,7 +30,7 @@
     }
     .COMO {
         text-align: center;
-        font-family: 'Indie Flower', cursive;
+        font-family: 'Staatliches', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
       
@@ -38,7 +38,7 @@
     .id {
         text-align: center;
         text-decoration: none;
-        font-family: 'Indie Flower', cursive;
+        font-family: 'Staatliches', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
         font-size: 48px;
