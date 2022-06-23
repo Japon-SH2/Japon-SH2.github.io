@@ -36,13 +36,10 @@
   
    
     }
-    .COMO {
-        font-family: 'Staatliches', cursiv;
-        text-align: center;
+  .postedit {
         align-items: center center;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
-      
     }
     .id {
         font-family: 'Staatliches;   
@@ -55,6 +52,7 @@
 .p {
         font-family: 'Staatliches;
         text-align: center;
+        align-items: center;
         text-decoration: none;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
