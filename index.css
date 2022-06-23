@@ -5,57 +5,44 @@
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
-    
-    }
-     * {
-        font-family: 'Staatliches';
     }
     .logo {
-      
         align-items: center;
         flex-direction: row;
         display: flex;
-      
     }
     .logo img {
         height: 95px;
-        align-items: center center; 
         margin-left: 8%;
         background-color: rgba(255, 155, 155, 0.5);
         border: rgba(255, 155, 155, 0.749) 5px solid;
     }
     h1 {
-         text-align: center;
-        font-family: 'Staatliches';
-         border: 2px rgba(255, 155, 155, 0.749) solid;
+        font-family: 'Indie Flower', cursive;
+        border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.5);
         margin-left: 8%;
+        text-align: center;
         border-radius: 150px;
         font-size: 40px;
     }
-  
-   
-    }
-  .postedit {
+    .postedit {
         align-items: center center;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
+    }
+    .COMO {
+        text-align: center;
+        align-items: center center;
+        font-family: 'Indie Flower', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
+        font-size: 10px;
     }
-    .id {
-        font-family: 'Staatliches;   
+    id {
         text-align: center;
         text-decoration: none;
-        border: 2px rgba(255, 155, 155, 0.749) solid;
-        background-color: rgba(255, 208, 208, 0.6);
-        font-size: 48px;
-    }
-.p {
-        font-family: 'Staatliches;
-        text-align: center;
-        align-items: center;
-        text-decoration: none;
+        font-family: 'Indie Flower', cursive;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
         font-size: 48px;
