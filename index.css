@@ -53,8 +53,8 @@
     }
 .p {
         font-family: 'Staatliches;
-        
-        text-align: center center;
+          text-align: center;
+       
         text-decoration: none;
         border: 2px rgba(255, 155, 155, 0.749) solid;
         background-color: rgba(255, 208, 208, 0.6);
